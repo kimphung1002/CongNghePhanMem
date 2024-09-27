@@ -1,0 +1,13 @@
+User Story: Mua Cà Phê Trực Tuyến
+
+Là một khách hàng yêu thích cà phê,  
+Tôi muốn xem và mua các loại cà phê từ trang web,  
+Để tôi có thể chọn được loại cà phê phù hợp và hoàn tất việc mua hàng một cách thuận tiện.
+
+Tiêu chí chấp nhận:
+1. Tìm kiếm sản phẩm: Người dùng có thể tìm kiếm cà phê theo loại (hạt, bột, viên nén), xuất xứ, độ rang, hương vị, và giá cả.
+2. Trang sản phẩm: Trang sản phẩm hiển thị hình ảnh chất lượng cao, mô tả chi tiết về nguồn gốc, phương pháp chế biến, độ đậm nhạt, và đánh giá từ khách hàng.
+3. Giỏ hàng: Người dùng có thể thêm cà phê vào giỏ hàng, chọn số lượng, và có thể tiếp tục mua sắm hoặc tiến hành thanh toán.
+4. Thanh toán: Trang thanh toán yêu cầu thông tin vận chuyển (địa chỉ, số điện thoại), và lựa chọn phương thức thanh toán (thẻ tín dụng, ví điện tử, chuyển khoản ngân hàng).
+5. Xác nhận đơn hàng: Sau khi thanh toán thành công, người dùng nhận được thông báo xác nhận trên trang web và một email chứa thông tin chi tiết về đơn hàng.
+6. Theo dõi đơn hàng: Người dùng có thể theo dõi trạng thái đơn hàng trong mục "Lịch sử mua hàng", bao gồm các bước: đang xử lý, đang vận chuyển, và đã giao hàng.
